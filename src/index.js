@@ -21,7 +21,6 @@ ReactDOM.render(
           </Switch>
         </App>
       </Provider>
-
     </Router>
   </React.Fragment>,
   document.getElementById('root')
